@@ -1,0 +1,14 @@
+{
+    "name": "my-test-app",
+    "description": "deploy it",
+    "keywords": ["app"],
+    "env": {
+        "UUID": {
+            "description": "Your UUID",
+            "value": "c95ef1de-f3ac-3586-96e9-23ba37dda068"
+        }
+    },
+    "website": "https://github.com/",
+    "repository": "https://github.com/",
+    "stack": "container"
+}
